@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author User
+ * @author User raman
  */
 public class PasswordValidator {
     protected User users[] = new User[100];//room for 100 online players!
